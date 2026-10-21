@@ -1,0 +1,13 @@
+START MARKETING — CENTRAL DE PEDIDOS (PROTÓTIPO)
+
+TESTE:
+1. Extraia o ZIP.
+2. Abra index.html no navegador.
+3. Escolha Açaí da Terra ou Pizzaria Modelo e clique em Entrar.
+4. Senha demonstrativa: 123456.
+5. Clique em “Criar pedido de teste” e teste os botões de status.
+
+IMPORTANTE:
+Esta versão é uma demonstração local. Os pedidos ficam apenas neste navegador via localStorage. O login e a separação das lojas são ilustrativos e NÃO seguros para uso comercial. Ainda não recebe pedidos reais do mini site, não possui servidor/banco de dados compartilhado nem notificações push.
+Para instalar como PWA, publique os arquivos em hospedagem HTTPS e abra o link no Chrome/Edge ou navegador compatível; use “Instalar aplicativo” ou “Adicionar à tela inicial”.
+Para uso real, é necessário desenvolver backend, autenticação segura, banco de dados, regras de acesso por estabelecimento e notificações.

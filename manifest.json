@@ -1,0 +1,9 @@
+{
+  "name": "Start Marketing — Central de Pedidos",
+  "short_name": "Central Pedidos",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f3fa",
+  "theme_color": "#5424a8",
+  "description": "Protótipo demonstrativo para receber e acompanhar pedidos."
+}
